@@ -1,0 +1,45 @@
+div
+{
+    display: inline-block;
+    margin-top: 400px;
+    margin-left: 800px;
+    font-size: 30px;
+    font-family: 'Oswald';
+    background-color: rgb(74, 69, 69);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a
+{
+    display: inline-block;
+    margin-left: 1220px;
+    margin-top: 60px;
+
+    background-color: rgb(91, 29, 82);
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Oswald' ;
+    text-decoration: none;
+    color: aliceblue;
+    transition: 200ms;
+}
+
+.Não
+{
+    margin-left: 100px;
+}
+
+body
+{
+    background-image: url(img/1.PNG);
+}
+
+a:hover
+{
+    transform: scale(1.09);
+    background-color: rgb(161, 45, 143);
+}
+
+
